@@ -1,4 +1,3 @@
 # moovinzoo
 
-![]
-(https://img.shields.io/github/followers/moovinzoo?style=social)
+<img src="https://img.shields.io/github/followers/moovinzoo?style=social">
