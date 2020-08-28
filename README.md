@@ -6,7 +6,7 @@
 
 ## moovinzoo
 
-## Stack
+# Stack
 - Java
 - Python
 - React.js
