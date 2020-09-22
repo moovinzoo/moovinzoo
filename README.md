@@ -9,7 +9,8 @@
 ## Stack
 - Java 💤
 - C++ 💀
-- Python 
+- Scala
+- Python
 - Django 👶
 - JavaScript
 - React.js 👶
