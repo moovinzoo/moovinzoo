@@ -8,8 +8,8 @@
 
 ## Stack
 - Java 💤
+- Scala 👶
 - C++ 💀
-- Scala
 - Python
 - Django 👶
 - JavaScript
